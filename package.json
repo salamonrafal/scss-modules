@@ -1,5 +1,5 @@
 {
-  "name": "scss-modules",
+  "name": "@salamonrafal/scss-modules",
   "version": "1.0.0",
   "description": "Styles for react components done by salamonrafal",
   "main": "index.js",
