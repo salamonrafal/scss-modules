@@ -1,0 +1,25 @@
+{
+  "name": "scss-modules",
+  "version": "1.0.0",
+  "description": "Styles for react components done by salamonrafal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salamonrafal/scss-modules.git"
+  },
+  "keywords": [
+    "SCSS",
+    "react",
+    "stylesheets",
+    "stylesheet"
+  ],
+  "author": "Rafal Salamon <rasa@salamonrafal.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salamonrafal/scss-modules/issues"
+  },
+  "homepage": "https://github.com/salamonrafal/scss-modules#readme"
+}
