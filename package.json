@@ -1,6 +1,6 @@
 {
   "name": "scss-modules-for-rxc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Styles for react components done by salamonrafal",
   "main": "src/",
   "scripts": {
